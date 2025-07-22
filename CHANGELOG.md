@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`083a2c7`](https://github.com/stdlib-js/stdlib/commit/083a2c747659bb31bb7e6b6d715a7f2053d0057f) - **docs:** update examples _(by Athan Reines)_
 -   [`d9bfa8a`](https://github.com/stdlib-js/stdlib/commit/d9bfa8a430500c9b13a2e8266c826dee40dab203) - **docs:** fix comment _(by Athan Reines)_
 -   [`d77cd4a`](https://github.com/stdlib-js/stdlib/commit/d77cd4ad27964c0ee26b0f9fc6434b74c7ef825a) - **docs:** fix comment _(by Athan Reines)_
 -   [`95648a9`](https://github.com/stdlib-js/stdlib/commit/95648a99d72ad98c6d5bacd6e61b5d7bac5c8f16) - **docs:** remove duplicated complex in description _(by Philipp Burckhardt)_
