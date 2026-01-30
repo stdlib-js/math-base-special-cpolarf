@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-cpolarf",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Compute the absolute value and the phase of a single-precision complex floating-point number.",
   "license": "Apache-2.0",
   "author": {
@@ -46,10 +46,10 @@
     "@stdlib/napi-argv": "^0.2.2",
     "@stdlib/napi-argv-complex64": "^0.0.2",
     "@stdlib/napi-argv-float32array": "^0.2.2",
-    "@stdlib/napi-export": "^0.2.2",
+    "@stdlib/napi-export": "^0.3.0",
     "@stdlib/types": "^0.4.3",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-complex64": "^0.3.0",
@@ -57,7 +57,7 @@
     "@stdlib/assert-has-own-property": "^0.2.2",
     "@stdlib/assert-is-array": "^0.2.2",
     "@stdlib/assert-is-float32array": "^0.2.2",
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
+    "@stdlib/console-log-each-map": "^0.1.0",
     "@stdlib/math-base-assert-is-nanf": "^0.2.2",
     "@stdlib/random-array-uniform": "^0.2.1",
     "@stdlib/random-base-uniform": "^0.2.1",
